@@ -81,7 +81,7 @@ export default function CartPage(){
       } = useForm();
     
       const onSubmit = handleSubmit((data) => {
-        console.log(data);
+        //console.log(data);
         const { message, ...user} = data;
     
         const userInfo = {

@@ -3,7 +3,7 @@ import FrontLayout from "../layouts/Frontlayout";
 import HomePage from "../pages/Homepage";
 import ProductPage from "../pages/ProductPage";
 import ProductDetailPage from "../pages/ProductDetailPage";
-import CartPage from "../pages/cartPage";
+import CartPage from "../pages/CartPage";
 import NotFound from "../pages/NotFound";
 
 const router = createHashRouter([
